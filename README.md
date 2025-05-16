@@ -39,25 +39,5 @@ Use cases:
 
 ---
 
-## ✅ Usage
-
-You can:
-- Use these files for personal study
-- Share with classmates or colleagues
-- Include in presentations or documentation
-
----
-
-## 📄 License
-
-These visuals are provided **for educational and personal use only**. Commercial redistribution is not allowed without permission.
-
----
-
-## 🤝 Contributing
-
-Feel free to open an issue or a pull request if you'd like to contribute more visuals, corrections, or updates!
-
----
 
 Thanks for checking out this repository! 🎓
